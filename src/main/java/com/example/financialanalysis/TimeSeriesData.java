@@ -31,6 +31,9 @@ class TimeSeriesData {
         this.volume = volume;
     }
 
+    public TimeSeriesData() {
+    }
+
     // Getters and setters
     public String getOpen() {
         return open;

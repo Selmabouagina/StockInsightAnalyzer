@@ -1,0 +1,10 @@
+com\example\financialanalysis\TimeSeriesData.class
+com\example\financialanalysis\DataFetcher$1.class
+com\example\financialanalysis\Main.class
+com\example\financialanalysis\StockData.class
+com\example\financialanalysis\CSVParser$1.class
+com\example\financialanalysis\DataFetcher.class
+com\example\financialanalysis\CSVParser.class
+com\example\financialanalysis\TimeSeriesAnalysis.class
+com\example\financialanalysis\DatabaseManager.class
+com\example\financialanalysis\MetaData.class
